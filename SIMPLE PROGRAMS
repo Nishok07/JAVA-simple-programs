@@ -9,7 +9,7 @@ class evenNumbers{
    }
    
 // Odd numbers //
-class evenNumbers{
+class oddNumbers{
       public static void main(String[]args){
               int num;
               if( num % 2 != 0 ){
